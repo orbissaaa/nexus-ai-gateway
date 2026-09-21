@@ -173,7 +173,7 @@ python test_client.py
 
 If you like this project or find it helpful, please give it a ⭐️ star on GitHub!
 
-* **GitHub:** [orbissaaa](https://www.google.com/search?q=https://github.com/orbissaaa&utm_source=gemini)
+* **GitHub:** [orbissaaa](https://github.com/orbissaaa)
 * **Issues / Bugs:** If you encounter any issues, please open an [Issue](https://www.google.com/search?q=https://github.com/orbissaaa/nexus-ai-gateway/issues&utm_source=gemini).
 
 ---
