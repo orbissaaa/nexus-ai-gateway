@@ -1,3 +1,5 @@
+
+
 # 🚀 NexusAI Gateway
 
 > A lightning-fast, production-ready Multi-Provider AI Gateway & API Rotator built with FastAPI. Features automatic quota tracking, rate-limit handling, and seamless multi-key load balancing.
@@ -10,7 +12,7 @@
 * **Automatic API Key Rotation:** Intelligent `QuotaTracker` automatically rotates keys upon hitting rate limits or quotas.
 * **FastAPI Powered:** High-performance asynchronous backend with built-in automatic Swagger documentation (`/docs`).
 * **Secure & Clean:** Strict `.env` isolation to keep your secret API keys safe.
-
+ [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U4A727EE8G)
 ---
 
 ## ⚙️ Installation & Setup
